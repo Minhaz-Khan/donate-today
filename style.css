@@ -191,7 +191,9 @@ hr {
     background-color: #FFF4D6;
     Width: 809px;
     Height: 200px;
-    margin: 50px 0px 130px 550px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
